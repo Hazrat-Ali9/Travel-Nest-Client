@@ -28,3 +28,5 @@ const CountryTouristsSpots = () => {
 };
 
 export default CountryTouristsSpots;
+
+// Country spot tourist
