@@ -252,3 +252,5 @@ const UpdateTouristsSpot = () => {
 };
 
 export default UpdateTouristsSpot;
+
+// Update Tourist Spot
