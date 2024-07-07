@@ -80,3 +80,5 @@ const TouristsSpotDetails = () => {
 };
 
 export default TouristsSpotDetails;
+
+// Tourist Spot Details
