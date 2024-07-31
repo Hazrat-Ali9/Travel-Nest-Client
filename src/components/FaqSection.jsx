@@ -164,5 +164,5 @@ const FaqSection = () => {
         </div>
     );
 };
-
+// Faq Section
 export default FaqSection;
