@@ -51,5 +51,5 @@ const Banner = () => {
         </>
     );
 };
-
+// Banner
 export default Banner;
