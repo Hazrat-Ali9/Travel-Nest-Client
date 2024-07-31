@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import PropTypes from 'prop-types'; 
-
+// Tourist Spot Card 
 const CountryTouristsSpotCard = ({ spot }) => {
     const { _id, imageURL, tourists_spot_name, country_Name, location, description, average_cost, seasonality } = spot;
     return (
