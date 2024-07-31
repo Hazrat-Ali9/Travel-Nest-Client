@@ -26,7 +26,7 @@ const CountriesSection = () => {
 
     }
 
-
+// Country section
     return (
         <div className="my-10 mx-10">
             <h2 className="text-center text-4xl my-10 font-medium">Explore Tourists Spot of your Country</h2>
