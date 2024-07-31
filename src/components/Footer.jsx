@@ -161,5 +161,5 @@ const Footer = () => {
         </div>
     );
 };
-
+// Footer jsx
 export default Footer;
