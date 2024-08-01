@@ -18,7 +18,7 @@ const TouristsSpots = ({ spots }) => {
         </div>
     );
 };
-
+// Tourist spot
 export default TouristsSpots;
 
 TouristsSpots.propTypes = {
