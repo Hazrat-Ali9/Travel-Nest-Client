@@ -111,7 +111,7 @@ const TouristsSpotCard = ({ spot }) => {
         </div>
     );
 };
-
+// Tourist spot card
 export default TouristsSpotCard;
 
 TouristsSpotCard.propTypes = {
