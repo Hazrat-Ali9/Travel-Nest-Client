@@ -37,5 +37,5 @@ const Slider = () => {
         </div>
     );
 };
-
+// Slider
 export default Slider;
