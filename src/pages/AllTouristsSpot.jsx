@@ -47,4 +47,4 @@ const AllTouristsSpot = () => {
 
 export default AllTouristsSpot;
 
-// all tourist
+// All tourist
