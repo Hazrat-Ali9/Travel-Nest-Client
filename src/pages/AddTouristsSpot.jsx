@@ -238,3 +238,4 @@ const AddTouristsSpot = () => {
 };
 
 export default AddTouristsSpot;
+// AddTouristsSpot
